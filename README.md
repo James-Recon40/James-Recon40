@@ -2,7 +2,7 @@
 
 <img src="assets/photo.jpg" width="150" alt="장태윤">
 
-# 장태윤 · Taeyun Jang
+# 장태윤 · Jang Tae Youn
 
 **차량 SW 개발 · 검증(테스트) 엔지니어를 준비하고 있습니다**
 
